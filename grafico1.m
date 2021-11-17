@@ -7,7 +7,7 @@
 %                 :Requiere aplicación octave para utilizar su linea de comandos
 
 % funcion g(x) = x^2
-x=-50:05:50
+x=-20:01:20
 % funcion a plotear
 fx = (x.^2);
 
