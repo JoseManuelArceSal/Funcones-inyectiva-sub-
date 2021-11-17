@@ -14,4 +14,11 @@ fx = (x.^2);
 % Dibujar funcion
 plot(x,fx)
 
+% funcion f(x) = x^2
+x=-15:01:20
+% funcion a plotear
+fx = (x.^3);
+
+% Dibujar funcion
+plot(x,fx)
 
